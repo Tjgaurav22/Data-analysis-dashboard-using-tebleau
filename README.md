@@ -14,7 +14,7 @@ This project focuses on building an interactive Tableau dashboard to analyze and
 #Total PHEV Vehicles and % of PHEVs :- #Understand the role of hybrid models in EV adoption.
 
 # Charts & Visualizations
-#Chart Title  #Visualization Type   #Description
+#Chart Title                                    #Visualization Type                    #Description
 Total Vehicles by Model Year (From 2010 Onwards) Line/Area Chart | Shows the growth pattern and adoption trends of EVs over time.
 Total Vehicles by State | Map Chart | Displays the geographic distribution of EVs, identifying states with higher adoption rates.
 Top 10 Total Vehicles by Make | Bar Chart | Highlights the top 10 EV manufacturers based on total number of vehicles.
