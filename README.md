@@ -33,3 +33,12 @@ Insights & Conclusions:-Summarized findings, enabling informed decisions on EV g
 <a href="https://github.com/Tjgaurav22/Data-analysis-dashboard-using-tebleau/blob/main/eletric%20vehicles%20dashboard.png">Dashboard</a>
 ![image](https://github.com/user-attachments/assets/0e662f44-71ef-4499-b905-fabdce0c7d9b)
 
+# Conclusion
+This Tableau dashboard project successfully provides valuable insights into the electric vehicle (EV) landscape, leveraging visual analytics to identify key market trends and patterns. Through the use of various KPIs and visualizations, the project highlights:
+1The consistent growth in electric vehicle adoption since 2010.
+Geographic differences in EV penetration across U.S. states.
+Market dominance of leading EV manufacturers and models.
+The increasing efficiency of electric vehicles as seen in improved electric range.
+The impact of clean energy incentives on vehicle eligibility and adoption.
+Overall, this project demonstrates the power of data visualization in uncovering hidden trends and supporting data-driven decisions related to electric vehicle adoption, policy impact, and technological progress.
+
