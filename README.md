@@ -1,2 +1,7 @@
-# Data-analysis-dashboard-using-tebleau
-This project focuses on analyzing the landscape of electric vehicles (EVs) using a dataset that includes both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). The goal is to derive key performance indicators (KPIs) that offer insights into market size, growth, and technological trends.
+#📊 Electric Vehicle Data Analysis Dashboard | Tableau Project
+🎯 Objective
+This project focuses on building an interactive Tableau dashboard to analyze and visualize the adoption of electric vehicles (EVs) in the United States. It leverages a real-world EV dataset to extract insights about market trends, model popularity, state-wise distribution, and the impact of clean fuel incentives.
+
+The goal is to present actionable KPIs that support informed decision-making for government bodies, environmental researchers, and the automotive industry.
+
+#Dataset used
