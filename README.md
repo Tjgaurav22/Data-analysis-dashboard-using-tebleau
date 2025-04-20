@@ -7,11 +7,11 @@ This project focuses on building an interactive Tableau dashboard to analyze and
 <a href="https://github.com/Tjgaurav22/Data-analysis-dashboard-using-tebleau/blob/main/archive%20(8)%20%5BMConverter.eu%5D.xls">Dataset</a>
 
 # KPIs (Key Performance Indicators)
-     #KPI                                                          #Description   
-#Total Vehicles  :-  #Analyze the overall count of electric vehicles (both BEVs and PHEVs) to assess market growth.
-#Average Electric Range  :-  #Understand improvements in battery technology and vehicle efficiency over time.
-#Total BEV Vehicles and % of BEVs  :-  #Identify fully electric vehicle trends and their market dominance.
-#Total PHEV Vehicles and % of PHEVs :- #Understand the role of hybrid models in EV adoption.
+    KPI	Description
+Total Vehicles	Analyze the overall count of electric vehicles (both BEVs and PHEVs) to assess market growth.
+Average Electric Range	Understand improvements in battery technology and vehicle efficiency over time.
+Total BEV Vehicles and % of BEVs	Identify fully electric vehicle trends and their market dominance.
+Total PHEV Vehicles and % of PHEVs	Understand the role of hybrid models in EV adoption.
 
 # Charts & Visualizations
 #Chart Title                                    #Visualization Type                    #Description
