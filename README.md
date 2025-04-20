@@ -9,10 +9,10 @@ The goal is to present actionable KPIs that support informed decision-making for
 
 # KPIs (Key Performance Indicators)
      #KPI                                                          #Description   
-Total Vehicles                              Analyze the overall count of electric vehicles (both BEVs and PHEVs) to assess market growth.
-Average Electric Range                      Understand improvements in battery technology and vehicle efficiency over time.
-Total BEV Vehicles and % of BEVs            Identify fully electric vehicle trends and their market dominance.
-Total PHEV Vehicles and % of PHEVs          Understand the role of hybrid models in EV adoption.
+#Total Vehicles                              #Analyze the overall count of electric vehicles (both BEVs and PHEVs) to assess market growth.
+#Average Electric Range                      #Understand improvements in battery technology and vehicle efficiency over time.
+#Total BEV Vehicles and % of BEVs            #Identify fully electric vehicle trends and their market dominance.
+#Total PHEV Vehicles and % of PHEVs          #Understand the role of hybrid models in EV adoption.
 
 #Charts & Visualizations
 #Chart Title | Visualization Type | Description
